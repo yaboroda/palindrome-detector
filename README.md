@@ -1,3 +1,6 @@
+#### about
+This php class solve task to find longest palindrome substing in target string. If there is no palyndrome substring, it returns first letter of target string.
+
 #### run example script
 ```sh
 php example.php
